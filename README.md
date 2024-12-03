@@ -55,8 +55,22 @@ Para una amyor facilidad de uso e implementación, se realizó un filtrado y red
 
 ***
 
-## Diapositivas 
+## Enlaces
 
-### Link a Canva: [Enlace](https://www.canva.com/design/DAGX3mzzigo/E-F6DVekohHSC3ffuAq21g/edit?utm_content=DAGX3mzzigo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Notebook
 
-### Link a PDF GitHub: [Enlace](https://github.com/Daniel121224/I.A.-2-Proyecto-Clasificacion-de-Frutas/blob/main/Diapositivas%20I.A.%202%2C%20Entrega%20Final.pdf)
+
+### Video
+
+
+### Respositorio
+
+
+### Diapositivas
+
+- Link a Canva: [Enlace](https://www.canva.com/design/DAGX3mzzigo/E-F6DVekohHSC3ffuAq21g/edit?utm_content=DAGX3mzzigo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- Link a PDF GitHub: [Enlace](https://github.com/Daniel121224/I.A.-2-Proyecto-Clasificacion-de-Frutas/blob/main/Diapositivas%20I.A.%202%2C%20Entrega%20Final.pdf)
+
+
+
