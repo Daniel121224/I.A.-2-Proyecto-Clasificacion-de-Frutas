@@ -1,3 +1,7 @@
+
+<img width="959" alt="Banner Proyecto I A  II" src="https://github.com/user-attachments/assets/1ac089c5-caad-432b-a765-57d59ec9fa01">
+
+
 ### Objetivos del Proyecto  
 Desarrollar un modelo de redes neuronales convolucionales (CNN) capaz de clasificar imágenes de frutas según su tipo y estado (buenas o en mal estado). Esto incluye:  
 1. Identificar y preprocesar datasets relevantes.  
