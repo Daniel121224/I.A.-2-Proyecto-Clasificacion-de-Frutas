@@ -59,12 +59,15 @@ Para una amyor facilidad de uso e implementación, se realizó un filtrado y red
 
 ### Notebook
 
+- Link a Notebook de Kaggle: [Enlace](https://github.com/Daniel121224/I.A.-2-Proyecto-Clasificacion-de-Frutas/blob/main/proyecto-ia2-fruits-and-vegetables-dissease.ipynb)
+
 
 ### Video
 
 
 ### Respositorio
 
+- Link a Repositorio: [Enlace](https://github.com/Daniel121224/I.A.-2-Proyecto-Clasificacion-de-Frutas)
 
 ### Diapositivas
 
