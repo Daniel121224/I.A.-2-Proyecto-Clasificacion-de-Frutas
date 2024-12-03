@@ -2,22 +2,22 @@
 
 ***
 
-### Autores:
+## Autores:
 Jorge Daniel Robles Ardila, Diego Fabián Sepúlveda Durán
 
 ***
-### Banner
+## Banner
 
 <img width="959" alt="Banner Proyecto I A  II" src="https://github.com/user-attachments/assets/1ac089c5-caad-432b-a765-57d59ec9fa01">
 
 ***
 
-### Objetivo del Proyecto  
+## Objetivo del Proyecto  
 Construir un modelo de clasificación de frutas y su estado (bueno o podrido) mediante el uso de redes neuronales convolucionales (CNN), evaluando el desempeño de modelos desde cero y preentrenados.
 
 ***
 
-### Dataset
+## Dataset
 
 [Enlace](https://www.kaggle.com/datasets/muhammad0subhan/fruit-and-vegetable-disease-healthy-vs-rotten)
 
@@ -33,9 +33,9 @@ Para una amyor facilidad de uso e implementación, se realizó un filtrado y red
 
 ***
 
-### Modelos de CNN utilizados 
+## Modelos de CNN utilizados 
 
-#### 1. Modelo sin preentrenar  
+### 1. Modelo sin preentrenar  
    Es una red convolucional construida desde cero, diseñada para procesar imágenes de 224x224 píxeles. Incluye dos bloques convolucionales con capas de normalización por lotes y dropout para evitar el sobreajuste. Termina con capas densas para producir dos salidas: una para clasificar el tipo de fruta y otra para determinar su estado (saludable o podrido). Este modelo no aprovecha conocimiento previo, por lo que requiere más tiempo de entrenamiento y datos para alcanzar buenos resultados.
 
 ![Modelo Construido draw io drawio](https://github.com/user-attachments/assets/381178d1-0068-4d7e-9894-a18feb680fff)
@@ -51,3 +51,12 @@ Para una amyor facilidad de uso e implementación, se realizó un filtrado y red
    Es un modelo ligero y preentrenado en ImageNet, optimizado para dispositivos con recursos limitados. Similar a ResNet50, sus capas base están congeladas y se añade una capa de agrupación global promedio para ajustar las salidas. Este modelo equilibra precisión y rapidez, siendo el más rápido de los tres en tiempo de entrenamiento debido a su diseño optimizado para eficiencia computacional.  
 
 ![Modelo MobileNetV2 drawio](https://github.com/user-attachments/assets/7aeb4185-e38b-47e5-89fc-a73870d42fc6)
+
+
+***
+
+## Diapositivas 
+
+### Link a Canva: [Enlace](https://www.canva.com/design/DAGX3mzzigo/E-F6DVekohHSC3ffuAq21g/edit?utm_content=DAGX3mzzigo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### Link a PDF GitHub: [Enlace](Diapositivas I.A. 2, Entrega Final.pdf)
