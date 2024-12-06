@@ -35,6 +35,13 @@ Para una amyor facilidad de uso e implementación, se realizó un filtrado y red
 
 ## Modelos de CNN utilizados 
 
+### Palabras claves:
+- Modelo sin preentrenar
+- Resnet50
+- MobileNetV2
+- CNN
+- Estado
+
 ### 1. Modelo sin preentrenar  
    Es una red convolucional construida desde cero, diseñada para procesar imágenes de 224x224 píxeles. Incluye dos bloques convolucionales con capas de normalización por lotes y dropout para evitar el sobreajuste. Termina con capas densas para producir dos salidas: una para clasificar el tipo de fruta y otra para determinar su estado (saludable o podrido). Este modelo no aprovecha conocimiento previo, por lo que requiere más tiempo de entrenamiento y datos para alcanzar buenos resultados.
 
