@@ -64,10 +64,13 @@ Para una amyor facilidad de uso e implementación, se realizó un filtrado y red
 
 ### Video
 
+- Link a Notebook de Kaggle: [Enlace](https://youtu.be/F48z-S9fuEk)
+
 
 ### Respositorio
 
 - Link a Repositorio: [Enlace](https://github.com/Daniel121224/I.A.-2-Proyecto-Clasificacion-de-Frutas)
+
 
 ### Diapositivas
 
